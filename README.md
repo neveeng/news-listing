@@ -8,9 +8,9 @@ As a Content Editor I want news articles to display in a structured list so site
 
 Install dependencies and run it.
 
-### `npm i`
+`npm i`
 
-### `npm start`
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
